@@ -1,0 +1,15 @@
+{
+  "name": "Heroku Flow Gitflow Demo",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/thawkin3/heroku-flow-gitflow-demo",
+  "logo": "https://cdn.rawgit.com/heroku/heroku-flow-gitflow-demo/main/public/node.svg",
+  "keywords": [
+    "node",
+    "express",
+    "heroku",
+    "heroku flow",
+    "heroku ci",
+    "ci/cd"
+  ],
+  "image": "heroku/nodejs"
+}

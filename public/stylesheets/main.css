@@ -1,0 +1,44 @@
+html {
+  font-size: 100%;
+  height: 100%;
+}
+
+body {
+  font-size: 100%;
+  min-height: 100%;
+}
+
+main {
+  background: #532F8C;
+  color: white;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.btn {
+  margin-top: 1rem;
+}
+
+.btn-primary {
+  background: #845ac7;
+  border-color: #845ac7;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background: #7646c1;
+}
+
+p {
+  color: #d9ccee;
+  max-width: 75%;
+  margin: 1rem auto 0 auto;
+  font-size: 100%;
+}
+
+img {
+  margin-top: -2rem;
+}
